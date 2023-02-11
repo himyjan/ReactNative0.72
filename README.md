@@ -1,7 +1,8 @@
 # react-native-template-typescript
 
-[https://github.com/facebook/react-native/tree/main/template](https://github.com/facebook/react-native/tree/main/template)
-
+```
+https://github.com/facebook/react-native/tree/main/template
+```
 ```
                ######                ######
              ###     ####        ####     ###

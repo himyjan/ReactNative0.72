@@ -1,4 +1,4 @@
-package com.helloworld;
+package com.react_native_app;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
