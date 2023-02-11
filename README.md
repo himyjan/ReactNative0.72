@@ -1,7 +1,7 @@
 # react-native-template-typescript
 
 ```
-https://github.com/facebook/react-native/tree/main/template
+npx react-native init react_native_app
 ```
 ```
                ######                ######
@@ -37,6 +37,7 @@ https://github.com/facebook/react-native/tree/main/template
 ✔ Downloading template
 ✔ Copying template
 ✔ Processing template
+✔ Installing Bundler
 ✔ Installing CocoaPods dependencies (this may take a few minutes)
 
 
