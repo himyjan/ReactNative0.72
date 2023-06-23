@@ -51,6 +51,9 @@ npx react-native init react_native_app
     • Open react_native_app/ios/react_native_app.xcworkspace in Xcode or run "xed -b ios"
     • Hit the Run button
 
+  Run instructions for Windows:
+    • See https://aka.ms/ReactNativeGuideWindows for the latest up-to-date instructions.
+
   Run instructions for macOS:
     • See https://aka.ms/ReactNativeGuideMacOS for the latest up-to-date instructions.
 ```
